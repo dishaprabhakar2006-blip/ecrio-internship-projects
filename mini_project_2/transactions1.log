@@ -1,0 +1,10 @@
+2026-05-31 15:23:04,549 - INFO - Amount:10000.0,Category:Salary,Date:5/5/2026
+2026-05-31 15:23:04,603 - INFO - Amount:10000,Category:Food,Date:15/4/2026
+2026-05-31 15:23:04,604 - INFO - Amount:2000,Category:Clothes,Date:16/8/2026
+2026-05-31 15:23:04,605 - INFO - Amount:5000,Category:Salary,Date:28/5/2026
+2026-05-31 15:23:04,606 - ERROR - Amount can't be negative
+2026-05-31 15:24:19,756 - INFO - Amount:500.0,Category:Food,Date:4/7/2026
+2026-05-31 15:24:19,793 - INFO - Amount:10000,Category:Food,Date:15/4/2026
+2026-05-31 15:24:19,795 - INFO - Amount:2000,Category:Clothes,Date:16/8/2026
+2026-05-31 15:24:19,796 - INFO - Amount:5000,Category:Salary,Date:28/5/2026
+2026-05-31 15:24:19,796 - ERROR - Amount can't be negative
